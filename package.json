@@ -1,7 +1,7 @@
 {
   "name": "huecodechallenge",
   "version": "1.0.0",
-  "description": "This is a code challenge to log Philips Hue bulb state changes from Josh.ah",
+  "description": "This is a code challenge to log Philips Hue bulb state changes",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js"
